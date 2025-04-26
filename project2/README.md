@@ -1,3 +1,2 @@
 # new project
-This project was created from local system
-created by Debosmita Chowdhury
+This project was created from local system. Created by Debosmita Chowdhury
